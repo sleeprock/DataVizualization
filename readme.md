@@ -1,4 +1,4 @@
-Дашборд в Poer BI по аналитике продаж
+Дашборд в Power BI по аналитике продаж
 
 https://github.com/sleeprock/DataVizualization/blob/main/sales_analytic.pbix
 
